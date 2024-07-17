@@ -25,4 +25,5 @@
 - 접속 링크:  http://mit305.iptime.org:9040/member/home (Id: user / Pw: 1234)
 - 깃헙 링크:  https://github.com/SafeFastTeam/safefast
 - PPT 링크:  https://1drv.ms/p/c/a3079ce6dd67c42c/EcJjLZMHGKVEjgX9vZeFgIEBRQshDiNr0RG5deTCIRUvvA?e=QwV1b8
+- 노션 협업 링크: https://www.notion.so/greedy92/KDT_Team-Project_36-8b858696c2ee4585877018de5232226d?pvs=4
 - 사용 기술: Java 17, IntelliJ, MariaDB, SpringBoot, Spring Security, Git, GitHub
