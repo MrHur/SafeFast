@@ -27,3 +27,5 @@
 - PPT 링크:  https://1drv.ms/p/c/a3079ce6dd67c42c/EcJjLZMHGKVEjgX9vZeFgIEBRQshDiNr0RG5deTCIRUvvA?e=QwV1b8
 - 노션 협업 링크: https://www.notion.so/greedy92/KDT_Team-Project_36-8b858696c2ee4585877018de5232226d?pvs=4
 - 사용 기술: Java 17, IntelliJ, MariaDB, SpringBoot, Spring Security, Git, GitHub
+
+![image](https://github.com/user-attachments/assets/0e3593d3-9f78-4c7b-be94-9d9082781d43)
