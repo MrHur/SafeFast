@@ -32,6 +32,10 @@
 ![image](https://github.com/user-attachments/assets/61c506ce-c0d1-4f97-8294-034461e96dd0)
 ![image](https://github.com/user-attachments/assets/c3168822-fb3a-4971-bf46-8c54d84a3156)
 ![image](https://github.com/user-attachments/assets/708fda66-51fa-4a7c-a282-b712c0fe43c7)
-
 ![image](https://github.com/user-attachments/assets/88518ecc-02d7-4439-8ea6-eeff87535cd5)
+![image](https://github.com/user-attachments/assets/728c5918-e46a-4e33-ba3d-615b98f8bb83)
+
+### DB설계 / 테이블 정의서
+![image](https://github.com/user-attachments/assets/0b2831e3-1afe-4b95-a1fa-1e5820e9fd22)
+![image](https://github.com/user-attachments/assets/abb3fccf-693d-4d5a-8d33-5d90b0dd7074)
 
