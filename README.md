@@ -29,3 +29,7 @@
 - 사용 기술: Java 17, IntelliJ, MariaDB, SpringBoot, Spring Security, Git, GitHub
 
 ![image](https://github.com/user-attachments/assets/0e3593d3-9f78-4c7b-be94-9d9082781d43)
+![image](https://github.com/user-attachments/assets/61c506ce-c0d1-4f97-8294-034461e96dd0)
+![image](https://github.com/user-attachments/assets/c3168822-fb3a-4971-bf46-8c54d84a3156)
+
+
