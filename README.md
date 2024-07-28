@@ -2,6 +2,9 @@
 (주)디지이노 협업을 진행한 프로젝트 입니다. <br>
 생산 계획, 자재 조달, 입/출고, 재고관리 시스템을 만들었습니다. <br>
 
+
+![image](https://github.com/user-attachments/assets/0e3593d3-9f78-4c7b-be94-9d9082781d43)
+
 기간: 2024. 04. 19. ~ 2024. 06. 14. <br>
 인원: 3명 <br>
 프로젝트 배경:  <br>
@@ -28,7 +31,6 @@
 - 노션 협업 링크: https://www.notion.so/greedy92/KDT_Team-Project_36-8b858696c2ee4585877018de5232226d?pvs=4
 - 사용 기술: Java 17, IntelliJ, MariaDB, SpringBoot, Spring Security, Git, GitHub
 
-![image](https://github.com/user-attachments/assets/0e3593d3-9f78-4c7b-be94-9d9082781d43)
 ![image](https://github.com/user-attachments/assets/61c506ce-c0d1-4f97-8294-034461e96dd0)
 ![image](https://github.com/user-attachments/assets/c3168822-fb3a-4971-bf46-8c54d84a3156)
 ![image](https://github.com/user-attachments/assets/708fda66-51fa-4a7c-a282-b712c0fe43c7)
