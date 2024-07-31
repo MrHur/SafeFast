@@ -37,6 +37,7 @@
 ![image](https://github.com/user-attachments/assets/61c506ce-c0d1-4f97-8294-034461e96dd0)
 <스택>
 ![image](https://github.com/user-attachments/assets/c3168822-fb3a-4971-bf46-8c54d84a3156)
+<팀구성>
 ![image](https://github.com/user-attachments/assets/708fda66-51fa-4a7c-a282-b712c0fe43c7)
 ![image](https://github.com/user-attachments/assets/88518ecc-02d7-4439-8ea6-eeff87535cd5)
 
