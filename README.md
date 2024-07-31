@@ -31,8 +31,11 @@
 - 노션 협업 링크: https://www.notion.so/greedy92/KDT_Team-Project_36-8b858696c2ee4585877018de5232226d?pvs=4
 - 사용 기술: Java 17, IntelliJ, MariaDB, SpringBoot, Spring Security, Git, GitHub
 
+<일정>
 ![image](https://github.com/user-attachments/assets/728c5918-e46a-4e33-ba3d-615b98f8bb83)
+<개요>
 ![image](https://github.com/user-attachments/assets/61c506ce-c0d1-4f97-8294-034461e96dd0)
+<스택>
 ![image](https://github.com/user-attachments/assets/c3168822-fb3a-4971-bf46-8c54d84a3156)
 ![image](https://github.com/user-attachments/assets/708fda66-51fa-4a7c-a282-b712c0fe43c7)
 ![image](https://github.com/user-attachments/assets/88518ecc-02d7-4439-8ea6-eeff87535cd5)
