@@ -46,5 +46,5 @@
 ![image](https://github.com/user-attachments/assets/abb3fccf-693d-4d5a-8d33-5d90b0dd7074)
 
 
-### 전체 프로젝트 PPT 개요
+### 전체 프로젝트 PPT
 ![전체 프로젝트 PPT 개요](https://github.com/user-attachments/assets/c397ab02-975a-42f4-8622-1ba725f31bc6)
